@@ -1,6 +1,8 @@
 import React from 'react';
 import { View, TouchableOpacity, StyleSheet } from 'react-native';
-import styles from '.footer/footer.style';
+import styles from './footer.style';
+import { Ionicons } from "@expo/vector-icons";
+
 
 const FooterBar = () => {
   return (

@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
       justifyContent: 'center',
       alignItems: 'center',
       height: 60,
-      backgroundColor: '#009900',
+      backgroundColor: '#3e7e2f',
     },
     footerButton: {
       flex: 1,
